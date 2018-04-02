@@ -7,7 +7,7 @@ if(isset($_GET['language'])){
 }
 $servername="localhost";
 $username="pedramamirirad";
-$password="]2Bjj@*>iY~v";
+$password="***********";
 $dbname="pedramamirirad";
 $conn =new mysqli($servername,$username,$password,$dbname);
 if($conn->connect_error){
